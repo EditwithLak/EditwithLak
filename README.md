@@ -48,3 +48,8 @@ All powered by **AI-assisted app development** with ChatGPT. If you're curious a
 To prove that **any creative person** can build tools — with the right help. You don’t need to be a coder to build something awesome. You just need an idea, some curiosity, and a bit of AI ✨
 
 ---
+
+![Built with ChatGPT](https://img.shields.io/badge/Built%20with-ChatGPT-10a37f?style=flat&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat&logo=python)
+![Video Editor](https://img.shields.io/badge/Video%20Editor-Adobe%20Suite-FC1F1F?style=flat&logo=adobe)
+
