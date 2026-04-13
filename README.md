@@ -1,54 +1,60 @@
 # 👋 Hi, I'm Lakmal
 
-🎞️ I'm a passionate **video editor** with a growing love for building creative tools to support my workflow.
+🎬 I'm a **video editor** currently focused on building **AI-powered creative tools, systems, and workflows**.
 
-While I don't have a background in programming, I've started using **ChatGPT** to bring my ideas to life — turning workflows into real apps without writing a single line of code by myself.
+I’m not from a traditional coding background — I’m learning development as I build, while continuing my work as a video editor. I use AI as a development partner to turn ideas into real products and working systems.
 
-![Built with ChatGPT](https://img.shields.io/badge/Built%20with-ChatGPT-10a37f?style=flat&logo=openai&logoColor=white)
+![Built with AI](https://img.shields.io/badge/Built%20with-AI-10a37f?style=flat)
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat&logo=python)
-![Video Editor](https://img.shields.io/badge/Video%20Editor-Adobe%20Suite-FC1F1F?style=flat&logo=adobe)
----
-
-## 🧠 What I’m Doing
-
-- ✂️ I edit promotional videos, intros/outros, logo reveals, and more
-- 🤖 I'm exploring **AI-assisted app development** to solve real problems I face during editing
-- 💻 I recently built [Tutorial Manager App](https://github.com/YOUR_USERNAME/tutorial-manager-app) — a desktop app to organize and preview editing tutorials from local files or the web, using **Python + Tkinter + ChatGPT**
-- 💡 I come up with ideas, explain the workflow to ChatGPT, and build step-by-step with its help
+![Creative Systems](https://img.shields.io/badge/Creative-Workflow%20Systems-purple?style=flat)
 
 ---
 
-## 🛠 Tools I Use
+## 🧠 What I’m Working On
 
-- 🎬 Adobe Premiere Pro & After Effects
-- 🎨 Photoshop, Illustrator
-- 🌐 ChatGPT (for creative coding)
-- 🐍 Python (with AI guidance)
-
----
-
-## 💡 Projects I’m Building
-
-- 🧰 A personal **Creative Asset Organizer** to manage fonts, stock videos, overlays, and music
-- 🎵 A tool to **match music tracks by mood and tempo** (great for editors!)
-- 📚 An all-in-one **Tutorial Tracker** to manage online/offline learning resources
-- 💬 Real-time client collaboration tools for editors
-
-All powered by **AI-assisted app development** with ChatGPT. If you're curious about this process — feel free to reach out or fork my projects!
+- 🚀 Building **Neo Studio** — a large-scale AI-powered creative workflow project
+- 🤖 Designing tools that support ideation, organization, writing, asset flow, and creative production
+- 🛠 Turning real workflow problems into usable systems through AI-assisted development
+- 🎯 Exploring how creatives can build meaningful software while learning along the way
 
 ---
 
-## 🤝 Let's Connect
+## 🧩 Current Focus
 
-- 🌍 [www.editwithlakmal.com.lk](http://www.editwithlakmal.com.lk)
-- 📸 [Instagram](https://www.instagram.com/editwithlak/) | 🎬 [YouTube](https://www.youtube.com/@EditWithLak)
-- 💌 Reach me: `lakmalsirimanna93@gmail.com`
+- AI-assisted product building  
+- Creative workflow system design  
+- Prompt-driven development  
+- Python-based tooling  
+- UX thinking for complex creative tools  
+
+---
+
+## 💡 Featured Project
+
+### **Neo Studio**
+A major creative workflow system I’m currently developing.
+
+Neo Studio is focused on making creative work feel more structured, intelligent, and fluid — combining AI assistance, workflow architecture, and tool-building into one evolving ecosystem.
+
+> More details coming as the project grows.
+
+---
+
+## 🌌 MoodPixel
+
+MoodPixel is the creative space connected to my worldbuilding, visual ideas, and evolving creative systems.
+
+- Patreon: [patreon.com/MoodPixel](http://patreon.com/MoodPixel)
+- DeviantArt: [deviantart.com/moodpixel](https://www.deviantart.com/moodpixel)
+- Tumblr: [tumblr.com/moodpixel](https://www.tumblr.com/moodpixel?source=share)
+- YouTube: [@MoodPixel](https://www.youtube.com/@MoodPixel)
 
 ---
 
 ## 🚀 My Goal
 
-To prove that **any creative person** can build tools — with the right help. You don’t need to be a coder to build something awesome. You just need an idea, some curiosity, and a bit of AI ✨
+To build tools and systems that help creative people work better.
+
+I’m especially interested in the space where **creativity, systems thinking, and AI** overlap — and in proving that you don’t need a traditional path to start building meaningful software.
 
 ---
-
